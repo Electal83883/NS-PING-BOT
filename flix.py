@@ -372,4 +372,3 @@ def broadcast_message(message):
 
 
 bot.polling()
-#By Indian Watchdogs @Indian_Hackers_Team
